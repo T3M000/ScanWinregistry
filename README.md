@@ -9,4 +9,9 @@ This code can be useful for security analysts and IT professionals who need to q
 
 # Requirement 
 -  pip install winreg os re 
+
+# About
+Author by Ahmed Tammam
+./ 
+LinkedIn https://www.linkedin.com/in/ahmed-tammam20
  
