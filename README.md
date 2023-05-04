@@ -12,6 +12,8 @@ This code can be useful for security analysts and IT professionals who need to q
 
 # About
 Author by Ahmed Tammam
-./ 
-LinkedIn https://www.linkedin.com/in/ahmed-tammam20
+
+
+LinkedIn:
+https://www.linkedin.com/in/ahmed-tammam20
  
